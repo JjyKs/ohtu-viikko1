@@ -17,6 +17,7 @@ public class VarastoTest {
 
     @Before
     public void setUp() {
+        //:DDD
         varasto = new Varasto(10);
     }
 
